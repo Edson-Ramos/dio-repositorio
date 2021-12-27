@@ -1,6 +1,6 @@
 # Principais Comandos Para Git :school: 
 
-- **Git init ** - Usado para criar um novo repositório .git na pasta local
+- **Git init** - Usado para criar um novo repositório .git na pasta local
 - **Git add** - Usado para adicionar novos arquivos para serem comitados (git add ".", "*", "nome do arquivo") . ou * Adiciona tudo.
 - **Git Commit** - é usado para confirma as alterações feitas nos arquivos e prepara-ló para empurrar para o repositório remoto (git commit -m "Msg")
 - **Git Config** - faz algumas configurações necessárias no git(git config --global user.email seuemail@.com/ git config --global user.name seu nome)
