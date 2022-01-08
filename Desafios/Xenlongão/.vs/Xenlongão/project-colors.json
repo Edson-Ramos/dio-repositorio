@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e57ba7e5-35dc-45da-9b4f-01a5acb3086a": {
+      "ProjectGuid": "e57ba7e5-35dc-45da-9b4f-01a5acb3086a",
+      "DisplayName": "Xenlongão",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

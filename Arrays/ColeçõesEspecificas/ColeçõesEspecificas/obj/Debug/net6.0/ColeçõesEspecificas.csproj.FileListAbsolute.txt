@@ -1,0 +1,14 @@
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\bin\Debug\net6.0\ColeçõesEspecificas.exe
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\bin\Debug\net6.0\ColeçõesEspecificas.deps.json
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\bin\Debug\net6.0\ColeçõesEspecificas.runtimeconfig.json
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\bin\Debug\net6.0\ColeçõesEspecificas.dll
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\bin\Debug\net6.0\ref\ColeçõesEspecificas.dll
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\bin\Debug\net6.0\ColeçõesEspecificas.pdb
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.AssemblyInfoInputs.cache
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.AssemblyInfo.cs
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.csproj.CoreCompileInputs.cache
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.dll
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ref\ColeçõesEspecificas.dll
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.pdb
+C:\workspace\Arrays\ColeçõesEspecificas\ColeçõesEspecificas\obj\Debug\net6.0\ColeçõesEspecificas.genruntimeconfig.cache

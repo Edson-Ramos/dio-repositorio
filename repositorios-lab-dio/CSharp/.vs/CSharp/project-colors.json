@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "648a70dd-808a-4667-a99d-c9a430a0b5ad": {
+      "ProjectGuid": "648a70dd-808a-4667-a99d-c9a430a0b5ad",
+      "DisplayName": "CSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

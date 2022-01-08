@@ -1,0 +1,14 @@
+C:\Temp\Tipos de Construtores\Delegate\Delegate\bin\Debug\net6.0\Delegate.exe
+C:\Temp\Tipos de Construtores\Delegate\Delegate\bin\Debug\net6.0\Delegate.deps.json
+C:\Temp\Tipos de Construtores\Delegate\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+C:\Temp\Tipos de Construtores\Delegate\Delegate\bin\Debug\net6.0\Delegate.dll
+C:\Temp\Tipos de Construtores\Delegate\Delegate\bin\Debug\net6.0\ref\Delegate.dll
+C:\Temp\Tipos de Construtores\Delegate\Delegate\bin\Debug\net6.0\Delegate.pdb
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.dll
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\ref\Delegate.dll
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.pdb
+C:\Temp\Tipos de Construtores\Delegate\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache

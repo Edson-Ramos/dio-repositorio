@@ -1,0 +1,15 @@
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\bin\Debug\net6.0\ColeçõesGenericasDeArray.exe
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\bin\Debug\net6.0\ColeçõesGenericasDeArray.deps.json
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\bin\Debug\net6.0\ColeçõesGenericasDeArray.runtimeconfig.json
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\bin\Debug\net6.0\ColeçõesGenericasDeArray.dll
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\bin\Debug\net6.0\ref\ColeçõesGenericasDeArray.dll
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\bin\Debug\net6.0\ColeçõesGenericasDeArray.pdb
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.csproj.AssemblyReference.cache
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.AssemblyInfoInputs.cache
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.AssemblyInfo.cs
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.csproj.CoreCompileInputs.cache
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.dll
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ref\ColeçõesGenericasDeArray.dll
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.pdb
+C:\workspace\Arrays\ColeçõesGenericasDeArray\ColeçõesGenericasDeArray\obj\Debug\net6.0\ColeçõesGenericasDeArray.genruntimeconfig.cache

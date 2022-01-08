@@ -1,0 +1,15 @@
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\bin\Debug\net6.0\Sequência de I J.exe
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\bin\Debug\net6.0\Sequência de I J.deps.json
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\bin\Debug\net6.0\Sequência de I J.runtimeconfig.json
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\bin\Debug\net6.0\Sequência de I J.dll
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\bin\Debug\net6.0\ref\Sequência de I J.dll
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\bin\Debug\net6.0\Sequência de I J.pdb
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.csproj.AssemblyReference.cache
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.AssemblyInfoInputs.cache
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.AssemblyInfo.cs
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.csproj.CoreCompileInputs.cache
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.dll
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\ref\Sequência de I J.dll
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.pdb
+C:\workspace\dio\Desafios\Sequência de I J\Sequência de I J\obj\Debug\net6.0\Sequência de I J.genruntimeconfig.cache

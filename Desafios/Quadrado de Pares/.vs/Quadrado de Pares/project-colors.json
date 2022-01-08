@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cfedf085-bd1b-43fb-9e64-189c1e19a8f5": {
+      "ProjectGuid": "cfedf085-bd1b-43fb-9e64-189c1e19a8f5",
+      "DisplayName": "Quadrado de Pares",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

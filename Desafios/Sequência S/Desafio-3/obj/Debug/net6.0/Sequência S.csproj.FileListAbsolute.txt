@@ -1,0 +1,14 @@
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\bin\Debug\net6.0\Sequência S.exe
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\bin\Debug\net6.0\Sequência S.deps.json
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\bin\Debug\net6.0\Sequência S.runtimeconfig.json
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\bin\Debug\net6.0\Sequência S.dll
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\bin\Debug\net6.0\ref\Sequência S.dll
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\bin\Debug\net6.0\Sequência S.pdb
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.AssemblyInfoInputs.cache
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.AssemblyInfo.cs
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.csproj.CoreCompileInputs.cache
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.dll
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\ref\Sequência S.dll
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.pdb
+C:\workspace\dio\Desafios\Sequência S\Desafio-3\obj\Debug\net6.0\Sequência S.genruntimeconfig.cache

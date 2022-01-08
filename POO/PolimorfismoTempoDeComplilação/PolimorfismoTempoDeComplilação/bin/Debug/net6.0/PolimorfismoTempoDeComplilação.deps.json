@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PolimorfismoTempoDeComplilação/1.0.0": {
+        "runtime": {
+          "PolimorfismoTempoDeComplilação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PolimorfismoTempoDeComplilação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

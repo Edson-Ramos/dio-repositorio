@@ -1,0 +1,14 @@
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.exe
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.deps.json
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.runtimeconfig.json
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.dll
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\bin\Debug\net6.0\ref\ClassesAbstratas.dll
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\bin\Debug\net6.0\ClassesAbstratas.pdb
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.AssemblyInfoInputs.cache
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.AssemblyInfo.cs
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.dll
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ref\ClassesAbstratas.dll
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.pdb
+C:\Temp\POO\ClassesAbstratas\ClassesAbstratas\obj\Debug\net6.0\ClassesAbstratas.genruntimeconfig.cache

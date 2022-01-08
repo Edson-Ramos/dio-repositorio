@@ -1,0 +1,15 @@
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\bin\Debug\net6.0\1-EstruturaDoProjeto.exe
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\bin\Debug\net6.0\1-EstruturaDoProjeto.deps.json
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\bin\Debug\net6.0\1-EstruturaDoProjeto.runtimeconfig.json
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\bin\Debug\net6.0\1-EstruturaDoProjeto.dll
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\bin\Debug\net6.0\ref\1-EstruturaDoProjeto.dll
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\bin\Debug\net6.0\1-EstruturaDoProjeto.pdb
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.csproj.AssemblyReference.cache
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.AssemblyInfoInputs.cache
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.AssemblyInfo.cs
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.csproj.CoreCompileInputs.cache
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.dll
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\ref\1-EstruturaDoProjeto.dll
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.pdb
+C:\workspace\1-EstruturaDoProjeto\1-EstruturaDoProjeto\obj\Debug\net6.0\1-EstruturaDoProjeto.genruntimeconfig.cache

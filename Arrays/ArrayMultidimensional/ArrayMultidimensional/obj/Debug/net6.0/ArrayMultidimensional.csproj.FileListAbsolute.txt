@@ -1,0 +1,15 @@
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.exe
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.deps.json
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.runtimeconfig.json
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.dll
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ref\ArrayMultidimensional.dll
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\bin\Debug\net6.0\ArrayMultidimensional.pdb
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.csproj.AssemblyReference.cache
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.AssemblyInfoInputs.cache
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.AssemblyInfo.cs
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.csproj.CoreCompileInputs.cache
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.dll
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ref\ArrayMultidimensional.dll
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.pdb
+C:\workspace\Arrays\ArrayMultidimensional\ArrayMultidimensional\obj\Debug\net6.0\ArrayMultidimensional.genruntimeconfig.cache

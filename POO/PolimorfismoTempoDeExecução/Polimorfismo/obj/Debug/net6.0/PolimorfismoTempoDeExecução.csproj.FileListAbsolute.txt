@@ -1,0 +1,14 @@
+C:\Temp\POO\Polimorfismo\Polimorfismo\bin\Debug\net6.0\PolimorfismoTempoDeExecução.exe
+C:\Temp\POO\Polimorfismo\Polimorfismo\bin\Debug\net6.0\PolimorfismoTempoDeExecução.deps.json
+C:\Temp\POO\Polimorfismo\Polimorfismo\bin\Debug\net6.0\PolimorfismoTempoDeExecução.runtimeconfig.json
+C:\Temp\POO\Polimorfismo\Polimorfismo\bin\Debug\net6.0\PolimorfismoTempoDeExecução.dll
+C:\Temp\POO\Polimorfismo\Polimorfismo\bin\Debug\net6.0\ref\PolimorfismoTempoDeExecução.dll
+C:\Temp\POO\Polimorfismo\Polimorfismo\bin\Debug\net6.0\PolimorfismoTempoDeExecução.pdb
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.AssemblyInfoInputs.cache
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.AssemblyInfo.cs
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.csproj.CoreCompileInputs.cache
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.dll
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\ref\PolimorfismoTempoDeExecução.dll
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.pdb
+C:\Temp\POO\Polimorfismo\Polimorfismo\obj\Debug\net6.0\PolimorfismoTempoDeExecução.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\bin\Debug\net6.0\Xenlongão.exe
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\bin\Debug\net6.0\Xenlongão.deps.json
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\bin\Debug\net6.0\Xenlongão.runtimeconfig.json
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\bin\Debug\net6.0\Xenlongão.dll
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\bin\Debug\net6.0\ref\Xenlongão.dll
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\bin\Debug\net6.0\Xenlongão.pdb
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.csproj.AssemblyReference.cache
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.AssemblyInfoInputs.cache
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.AssemblyInfo.cs
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.csproj.CoreCompileInputs.cache
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.dll
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\ref\Xenlongão.dll
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.pdb
+C:\workspace\dio\Desafios\Xenlongão\Xenlongão\obj\Debug\net6.0\Xenlongão.genruntimeconfig.cache

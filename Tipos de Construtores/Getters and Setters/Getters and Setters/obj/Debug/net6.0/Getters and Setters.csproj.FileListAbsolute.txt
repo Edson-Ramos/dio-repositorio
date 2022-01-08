@@ -1,0 +1,15 @@
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.exe
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.deps.json
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.runtimeconfig.json
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.dll
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\bin\Debug\net6.0\ref\Getters and Setters.dll
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\bin\Debug\net6.0\Getters and Setters.pdb
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.AssemblyInfoInputs.cache
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.AssemblyInfo.cs
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.csproj.CoreCompileInputs.cache
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.dll
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\ref\Getters and Setters.dll
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.pdb
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.genruntimeconfig.cache
+C:\Temp\Tipos de Construtores\Getters and Setters\Getters and Setters\obj\Debug\net6.0\Getters and Setters.csproj.AssemblyReference.cache

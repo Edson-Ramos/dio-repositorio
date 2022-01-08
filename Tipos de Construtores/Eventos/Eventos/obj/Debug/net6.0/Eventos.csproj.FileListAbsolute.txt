@@ -1,0 +1,15 @@
+C:\Temp\Tipos de Construtores\Eventos\Eventos\bin\Debug\net6.0\Eventos.exe
+C:\Temp\Tipos de Construtores\Eventos\Eventos\bin\Debug\net6.0\Eventos.deps.json
+C:\Temp\Tipos de Construtores\Eventos\Eventos\bin\Debug\net6.0\Eventos.runtimeconfig.json
+C:\Temp\Tipos de Construtores\Eventos\Eventos\bin\Debug\net6.0\Eventos.dll
+C:\Temp\Tipos de Construtores\Eventos\Eventos\bin\Debug\net6.0\ref\Eventos.dll
+C:\Temp\Tipos de Construtores\Eventos\Eventos\bin\Debug\net6.0\Eventos.pdb
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.csproj.AssemblyReference.cache
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfoInputs.cache
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfo.cs
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.dll
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\ref\Eventos.dll
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.pdb
+C:\Temp\Tipos de Construtores\Eventos\Eventos\obj\Debug\net6.0\Eventos.genruntimeconfig.cache

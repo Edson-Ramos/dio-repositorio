@@ -1,0 +1,15 @@
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.csproj.AssemblyReference.cache
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.AssemblyInfoInputs.cache
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.AssemblyInfo.cs
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.csproj.CoreCompileInputs.cache
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.exe
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.deps.json
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.runtimeconfig.json
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.dll
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\bin\Debug\net6.0\ref\ProjetoSeries.dll
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\bin\Debug\net6.0\ProjetoSeries.pdb
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.dll
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ref\ProjetoSeries.dll
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.pdb
+C:\workspace\dio\ProjetoSeries\ProjetoSeries\obj\Debug\net6.0\ProjetoSeries.genruntimeconfig.cache

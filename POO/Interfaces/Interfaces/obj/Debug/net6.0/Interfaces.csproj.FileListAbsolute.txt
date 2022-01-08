@@ -1,0 +1,14 @@
+C:\Temp\POO\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.exe
+C:\Temp\POO\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.deps.json
+C:\Temp\POO\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.runtimeconfig.json
+C:\Temp\POO\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.dll
+C:\Temp\POO\Interfaces\Interfaces\bin\Debug\net6.0\ref\Interfaces.dll
+C:\Temp\POO\Interfaces\Interfaces\bin\Debug\net6.0\Interfaces.pdb
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfoInputs.cache
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.AssemblyInfo.cs
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.dll
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\ref\Interfaces.dll
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.pdb
+C:\Temp\POO\Interfaces\Interfaces\obj\Debug\net6.0\Interfaces.genruntimeconfig.cache

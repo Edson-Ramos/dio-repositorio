@@ -1,0 +1,15 @@
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\bin\Debug\net6.0\Vai Ter Copa.exe
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\bin\Debug\net6.0\Vai Ter Copa.deps.json
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\bin\Debug\net6.0\Vai Ter Copa.runtimeconfig.json
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\bin\Debug\net6.0\Vai Ter Copa.dll
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\bin\Debug\net6.0\ref\Vai Ter Copa.dll
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\bin\Debug\net6.0\Vai Ter Copa.pdb
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.csproj.AssemblyReference.cache
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.AssemblyInfoInputs.cache
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.AssemblyInfo.cs
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.csproj.CoreCompileInputs.cache
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.dll
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\ref\Vai Ter Copa.dll
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.pdb
+C:\workspace\dio\Desafios\Vai Ter Copa\Vai Ter Copa\obj\Debug\net6.0\Vai Ter Copa.genruntimeconfig.cache

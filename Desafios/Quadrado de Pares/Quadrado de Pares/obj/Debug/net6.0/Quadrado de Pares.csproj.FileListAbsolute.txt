@@ -1,0 +1,15 @@
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\bin\Debug\net6.0\Quadrado de Pares.exe
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\bin\Debug\net6.0\Quadrado de Pares.deps.json
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\bin\Debug\net6.0\Quadrado de Pares.runtimeconfig.json
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\bin\Debug\net6.0\Quadrado de Pares.dll
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\bin\Debug\net6.0\ref\Quadrado de Pares.dll
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\bin\Debug\net6.0\Quadrado de Pares.pdb
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.csproj.AssemblyReference.cache
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.AssemblyInfoInputs.cache
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.AssemblyInfo.cs
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.csproj.CoreCompileInputs.cache
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.dll
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\ref\Quadrado de Pares.dll
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.pdb
+C:\workspace\dio\Desafios\Quadrado de Pares\Quadrado de Pares\obj\Debug\net6.0\Quadrado de Pares.genruntimeconfig.cache

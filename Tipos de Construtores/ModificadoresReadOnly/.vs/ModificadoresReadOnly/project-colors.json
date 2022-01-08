@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cba1a05e-7767-4ef5-9a56-004ae1cd1830": {
+      "ProjectGuid": "cba1a05e-7767-4ef5-9a56-004ae1cd1830",
+      "DisplayName": "ModificadoresReadOnly",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
